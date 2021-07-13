@@ -92,7 +92,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #111;
+  color: #111111;
   font-family: "Titillium Web", sans-serif;
   font-weight: 500;
 }
@@ -181,7 +181,7 @@ button:focus,
 .cre_input {
   padding: 13px 20px;
   border: 1px solid #f7f7f7;
-  background-color: #fff;
+  background-color: white;
   border-radius: 0;
   color: #7d7d7d;
   font-size: 18px;
@@ -192,23 +192,23 @@ button:focus,
 }
 
 .cre_input:focus {
-  border: 1px solid rgba(242, 101, 34, 0.5);
+  border: 1px solid rgba(242, 100, 34, 0.5);
 }
 
 .cre_input:focus::-webkit-input-placeholder {
-  color: #111;
+  color: #111111;
 }
 
 .cre_input:focus:-ms-input-placeholder {
-  color: #111;
+  color: #111111;
 }
 
 .cre_input:focus::-ms-input-placeholder {
-  color: #111;
+  color: #111111;
 }
 
 .cre_input:focus::placeholder {
-  color: #111;
+  color: #111111;
 }
 
 .zoom_in_effect .masonry_img {
@@ -254,7 +254,7 @@ button:focus,
   display: -ms-inline-grid;
   display: inline-grid;
   place-items: center;
-  background-color: #F26522;
+  background-color: #f26422;
   width: 50px;
   height: 50px;
   text-align: center;
@@ -271,7 +271,7 @@ button:focus,
 
 .cre_top_scroll i {
   font-size: 24px;
-  color: #fff;
+  color: white;
 }
 
 .cre_top_scroll:hover {
@@ -334,54 +334,54 @@ button:focus {
 
 .cu_btn.btn_1 {
   background-color: rgba(255, 255, 255, 0.3);
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid white;
+  color: white;
 }
 
 .cu_btn.btn_1:hover {
-  background-color: #F26522;
-  border-color: #F26522;
-  color: #fff;
+  background-color: #f26422;
+  border-color: #f26422;
+  color: white;
 }
 
 .cu_btn.btn_2 {
   background-color: transparent;
   border: 2px solid rgba(17, 17, 17, 0.2);
-  color: #111;
+  color: #111111;
 }
 
 .cu_btn.btn_2:hover {
-  background-color: #F26522;
-  border-color: #F26522;
-  color: #fff;
+  background-color: #f26422;
+  border-color: #f26422;
+  color: white;
 }
 
 .cu_btn.btn_3 {
-  background-color: #F26522;
-  border: 2px solid #F26522;
-  color: #fff;
+  background-color: #f26422;
+  border: 2px solid #f26422;
+  color: white;
 }
 
 .cu_btn.btn_3:hover {
-  background-color: #fff;
-  border-color: #fff;
-  color: #F26522;
+  background-color: white;
+  border-color: white;
+  color: #f26422;
 }
 
 .cu_btn.btn_4 {
   background-color: #111;
   border: 2px solid #111;
-  color: #fff;
+  color: white;
 }
 
 .cu_btn.btn_4:hover {
-  background-color: #F26522;
-  border-color: #F26522;
+  background-color: #f26422;
+  border-color: #f26422;
 }
 
 .cu_btn.btn_5 {
   border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: white;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -396,31 +396,31 @@ button:focus {
 }
 
 .cu_btn.btn_5:hover {
-  background-color: #F26522;
-  border-color: #F26522;
+  background-color: #f26422;
+  border-color: #f26422;
 }
 
 .cu_btn.base_btn {
-  background-color: #F26522;
-  border: 2px solid #F26522;
-  color: #fff;
+  background-color: #f26422;
+  border: 2px solid #f26422;
+  color: white;
 }
 
 .cu_btn.base_btn:hover {
-  background-color: #111;
-  border-color: #111;
-  color: #fff;
+  background-color: #111111;
+  border-color: #111111;
+  color: white;
 }
 
 .cu_btn.white_btn {
-  background-color: #fff;
-  border: 2px solid #fff;
-  color: #111;
+  background-color: white;
+  border: 2px solid white;
+  color: #111111;
 }
 
 .cu_btn.white_btn:hover {
-  border-color: #F26522;
-  color: #fff;
-  background-color: #F26522;
+  border-color: #f26422;
+  color: white;
+  background-color: #f26422;
 }
 /*# sourceMappingURL=all.css.map */
